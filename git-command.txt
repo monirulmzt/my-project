@@ -1,0 +1,22 @@
+git config --user.name "username"
+git config --user.email "email"
+mkdir foldername (create folder)
+cd foldername (enter the folder)
+touch filename.ext (create file)
+ls (check the file history)
+ls -a (check the hidden file)
+git init (git initialize)
+git status (to know status)
+git add file.ext (to go stage area)
+git *.ext (for all same file)
+git add . (for all file)
+git rm --cached file.ext (remove from stage)
+git commit --m "message" (for localization/commit)
+git log (to know update)
+git **/*.foldername (bring from a folder)
+.gitignore (hide secret file and folder)
+git clone paste repository code
+git push origin (push to repository)
+
+
+
